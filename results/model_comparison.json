@@ -1,0 +1,38 @@
+[
+  {
+    "key": "phobert",
+    "model": "PhoBERT",
+    "accuracy": 0.6666666666666666,
+    "macro_f1": 0.6050968667661994,
+    "weighted_f1": 0.6604940080495334,
+    "train_seconds": 548.4330273000005,
+    "best_validation_macro_f1": 0.5419932866304058
+  },
+  {
+    "key": "visobert",
+    "model": "ViSoBERT",
+    "accuracy": 0.6277056277056277,
+    "macro_f1": 0.5955295435096212,
+    "weighted_f1": 0.6252915364090897,
+    "train_seconds": 479.7289688000001,
+    "best_validation_macro_f1": 0.5342274352326518
+  },
+  {
+    "key": "svm",
+    "model": "TF-IDF + SVM",
+    "accuracy": 0.5757575757575758,
+    "macro_f1": 0.5603486566604556,
+    "weighted_f1": 0.5753375007405247,
+    "train_seconds": 2.175393100000292,
+    "best_validation_macro_f1": 0.5241264728282492
+  },
+  {
+    "key": "cnn_word2vec",
+    "model": "CNN + Word2Vec",
+    "accuracy": 0.5988455988455988,
+    "macro_f1": 0.5532755687899135,
+    "weighted_f1": 0.5969564247933482,
+    "train_seconds": 25.50772280000001,
+    "best_validation_macro_f1": 0.5073568703076642
+  }
+]

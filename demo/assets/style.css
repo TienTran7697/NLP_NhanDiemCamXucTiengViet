@@ -1,0 +1,20 @@
+<style>
+.stApp {background:#F3F7FC; color:#16334E;}
+.block-container {max-width:1180px; padding-top:2rem; padding-bottom:2rem;}
+.uit-hero {background:linear-gradient(115deg,#082B50 0%,#075783 68%,#007DA2 100%);border-radius:22px;padding:30px 38px;margin-bottom:30px;color:white;box-shadow:0 12px 30px #0A365018;}
+.uit-brand {display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:22px;}
+.uit-brand img {width:190px;height:auto;}
+.uit-brand span {font-size:12px;letter-spacing:1.5px;color:#C0E9FB;font-weight:600;}
+.uit-hero h1 {font-size:38px!important;line-height:1.18!important;letter-spacing:-.8px;color:white!important;margin:0!important;padding:0!important;}
+.uit-hero p {color:#DEEFFB;font-size:16px;margin:14px 0 20px;}
+.hero-meta {font-size:13px;color:#D1EDF8;}.hero-meta span {padding:0 12px;color:#67CBDD;}
+[data-testid="stForm"] {background:white;border:1px solid #DCE7F1;border-radius:18px;padding:22px;box-shadow:0 5px 18px #12364E06;}
+[data-testid="stFormSubmitButton"] button {border-radius:10px;min-height:46px;font-weight:600;}
+h2,h3 {color:#123653!important;}
+.empty-result {border:1px dashed #BED3E4;border-radius:18px;min-height:340px;padding:55px 22px;text-align:center;background:#EDF4FB;display:flex;flex-direction:column;justify-content:center;}
+.empty-symbol {font-size:42px;margin-bottom:16px;}.empty-result h3 {font-size:23px!important;}.empty-result p {color:#516B82;font-size:15px;line-height:1.8;}
+.result-card {background:white;border:1px solid #DFE8F0;border-left:5px solid #0077B6;border-radius:14px;padding:18px 23px;margin-bottom:14px;box-shadow:0 5px 20px #173E5606;}
+.result-model {font-size:12px;text-transform:uppercase;letter-spacing:1px;color:#526C83;font-weight:700;}.result-label {font-size:32px;font-weight:750;line-height:1.3;margin:7px 0;}.result-sub {font-size:13px;color:#647A8E;}
+.uit-footer {margin-top:32px;border-top:1px solid #D8E5F0;padding-top:22px;color:#526C83;font-size:14px;line-height:1.9;}.uit-footer strong {color:#173E60;}.uit-footer p {font-size:12px;margin-top:8px;}
+@media(max-width:700px){.uit-hero{padding:24px;}.uit-brand{align-items:flex-start;flex-direction:column;gap:16px;}.uit-hero h1{font-size:29px!important;}.hero-meta span{padding:0 5px;}.empty-result{min-height:220px;}}
+</style>

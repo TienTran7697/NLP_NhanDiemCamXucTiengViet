@@ -1,0 +1,21 @@
+# Môi trường Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Thông tin riêng tư
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Checkpoint và dữ liệu: phân phối riêng
+models/
+data/
+
+# File tạm
+~$*
+*.log

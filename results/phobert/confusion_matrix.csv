@@ -1,0 +1,8 @@
+,Anger,Disgust,Enjoyment,Fear,Other,Sadness,Surprise
+Anger,14,16,0,3,4,3,0
+Disgust,3,95,8,7,11,8,0
+Enjoyment,1,11,142,3,19,14,3
+Fear,3,2,2,29,2,8,0
+Other,4,14,15,0,77,15,4
+Sadness,1,6,9,2,5,93,0
+Surprise,0,5,8,2,10,0,12

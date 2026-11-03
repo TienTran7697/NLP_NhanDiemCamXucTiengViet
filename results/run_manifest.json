@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-09-17T08:40:33.944634+00:00",
+  "python": "3.12.4",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "seed": 42,
+  "raw_sha256": {
+    "train_nor_811.xlsx": "007cc58aa8cf4c38f2327be9a0c7711f4557d3978e5c88b819cf3b60eb21e0e5",
+    "valid_nor_811.xlsx": "9b77b226980d0441868906b984023715ae1f0eaae39693065703d2ee639aa932",
+    "test_nor_811.xlsx": "4b105d41420d99b650d8d59ab37e77b0e458bb2417fc331c0fe337c0a2711cbb"
+  },
+  "packages": {
+    "torch": "2.11.0+cu128",
+    "transformers": "5.15.1",
+    "gensim": "4.4.0",
+    "pyvi": "0.1.1",
+    "scikit-learn": "1.7.0",
+    "numpy": "2.0.0",
+    "pandas": "2.2.2"
+  }
+}

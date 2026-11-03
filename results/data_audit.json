@@ -1,0 +1,12 @@
+{
+  "within": {
+    "train": 4,
+    "validation": 0,
+    "test": 1
+  },
+  "across": {
+    "train_validation": 1,
+    "train_test": 0,
+    "validation_test": 0
+  }
+}
